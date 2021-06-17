@@ -1,0 +1,18 @@
+R-2.1. Berikan tiga contoh aplikasi perangkat lunak yang sangat penting bagi kehidupan1. 
+       1) Mobil self-driving -- jika ada kegagalan perangkat lunak, dapat menyebabkan kecelakaan fatal.
+       2) pemeriksa insulin - seseorang yang menderita diabetes harus selalu melacak asupan insulinnya, dan mereka bergantung pada
+       mesin yang dapat memeriksa darah mereka
+       3) Kontrol lalu lintas udara dengan sinyal radar -- perangkat lunak digunakan untuk memproses sinyal radar, menjadikannya vital
+       untuk keselamatan perjalanan udara
+
+R-2.2. Twitter : Karena dari twitter ini orang-orang lebih mudah dalam hal meminimalisir kata negatif itu bisa kalian bisukan, maka kalian bisa mendapatkan 
+       pengalaman bermedia sosial dengan sehat tanpa ada kata kata negatif yang tidak ingin kalian dengar. dan bisa untuk sarana promosi karena bisa mencari kta kunci 
+       untuk yang kita cari lebih mudah.
+
+R-2.3. komponen : file dokumen
+       Dokumen akan memiliki atribut _content yang akan berisi semua karakter dalam dokumen.
+       Metode:
+       a. copy(): ini akan menyalin urutan karakter tertentu dan menyimpannya di beberapa atribut _clipboard
+       b. delete(): menghapus karakter dari _content 
+       c. insert(): menyisipkan karakter ke posisi tertentu dalam urutan
+       d. paste(): ini akan memasukkan isi _clipboard ke posisi dan rentang yang ditentukan di _content
